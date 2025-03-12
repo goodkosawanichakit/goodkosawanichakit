@@ -3,12 +3,13 @@
  I'm currently an undergraduate Computer Science student at King Mongkut's University of Technology North Bangkok.
 - 🎸 Fun Fact: I love playing guitar but I suck at it.
   ### 🎯 Interests
-  - I have a strong passion for Computer Science, with a particular focus on Machine Learning and Backend Development.
+  - I have a strong passion for Computer Science, with a particular focus on Block Chain and Cyber Security.
   ### 📚 Courses I'm Taking
   - Currently studying:
 
     - Machine Learning
-    - Rust for backend development
+    - Rust
+   
   ### 🛠 Skills
     - Programming Languages: C, Rust, Python
     - Tools: Visual Studio Code, CLion
