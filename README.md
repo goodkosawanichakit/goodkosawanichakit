@@ -1,13 +1,14 @@
 ## About me!
 - My name is Wachirawit Kosawanichakit, but you can call me Good.
  I'm currently an undergraduate Computer Science student at King Mongkut's University of Technology North Bangkok.
-- 🎸 Fun Fact: I love playing guitar but I suck at it.
+
   ### 🎯 Interests
   - I have a strong passion for Computer Science, with a particular focus on System Programming and Cyber Security.
   
   ### 🛠 Skills
     - Programming Languages: C/C++, Rust, Python
     - Tools: Visual Studio Code, CLion
+    - 
 ### 📬 Contact Me
   - Email: goodkosawanichakit@gmail.com
 
