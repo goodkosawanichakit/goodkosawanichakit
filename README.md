@@ -7,7 +7,6 @@
   
   ### 🛠 Skills
     - Programming Languages: C/C++, Rust, Python
-    - Tools: Visual Studio Code, CLion
  
 ### 📬 Contact Me
   - Email: goodkosawanichakit@gmail.com
