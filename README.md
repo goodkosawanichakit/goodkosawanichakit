@@ -3,10 +3,10 @@
  I'm currently an undergraduate Computer Science student at King Mongkut's University of Technology North Bangkok.
 
   ### 🎯 Interests
-  - I have a strong passion for Computer Science, with a particular focus on System Programming and low level programming.
+  - I have a strong passion for Computer Science, with a particular focus on Operating System and low level things.
   
   ### 🛠 Skills
-    - Programming Languages: C/C++, Rust, Python
+    - Programming Languages: C/C++, Rust, Python, Java
  
 ### 📬 Contact Me
   - Email: goodkosawanichakit@gmail.com
