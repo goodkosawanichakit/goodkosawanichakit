@@ -10,7 +10,8 @@
  
 ### 📬 Contact Me
   - Email: goodkosawanichakit@gmail.com
-
+  - Facebook: good kosawanichakit
+  - instagram: gooood.rs
 
 <!---
 goodkosawanichakit/goodkosawanichakit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
