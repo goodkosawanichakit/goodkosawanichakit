@@ -2,13 +2,13 @@
 - My name is Wachirawit Kosawanichakit, but you can call me Good.
  I'm currently an undergraduate Computer Science student at King Mongkut's University of Technology North Bangkok.
 
-  ### 🎯 Interests
-  - I have a strong passion for Computer Science, with a particular focus on Operating System and low level things.
+  ### Interests
+  - I have a strong passion for Computer Science, with a particular focus on Computer Systems triad: Compiler, Operating System, Architecture
   
-  ### 🛠 Skills
+  ### Skills
     - Programming Languages: C/C++, Rust, Python, Java
  
-### 📬 Contact Me
+### Contact Me
   - Email: goodkosawanichakit@gmail.com
   - Facebook: good kosawanichakit
   - instagram: gooood.rs
